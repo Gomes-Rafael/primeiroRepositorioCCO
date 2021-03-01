@@ -1,8 +1,8 @@
 A: 
-
-Abacaxi
+5 Abacaxis
+2 Amoras
 
 M:
-Melão
-Melancia
-Maçã
+1 Melão
+1 Melancia
+5 Maçã
